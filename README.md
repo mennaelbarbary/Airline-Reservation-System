@@ -1,5 +1,6 @@
 # Airline-Reservation-System
 This system is used for the reservations of a particular airline. It incorporates airline schedules, passenger reservations and ticket records and was implemented using Structured-Programming Concept with C++.
+
 System Data:
 • Flight information includes: Flight Number, Number of available seats, Flight Date, Departure Info (City, Departure time), Arrival Info (City, Arrival time)
 • Passenger information includes: Passenger ID, Name, Address, Phone number
